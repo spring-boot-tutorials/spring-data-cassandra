@@ -21,7 +21,7 @@ import java.util.UUID;
 public class Person {
 
     @PrimaryKeyColumn(
-            name = "isbn",
+            name = "id",
             ordinal = 2,
             type = PrimaryKeyType.CLUSTERED,
             ordering = Ordering.DESCENDING)
