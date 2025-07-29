@@ -1,3 +1,5 @@
+see: https://spring-guides.marcuschiu.com/spring-data/cassandra/spring-boot-cassandra.html
+
 # Install Cassandra
 ```shell
 brew install cassandra
